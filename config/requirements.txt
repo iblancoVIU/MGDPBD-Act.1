@@ -1,0 +1,9 @@
+jupyter 
+pandas 
+numpy 
+scikit-learn 
+dtale 
+mlflow 
+dvc 
+ydata_profiling 
+streamlit 
